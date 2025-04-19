@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pt
+*.wav
+*.mp4
+checkpoints/
+data/
